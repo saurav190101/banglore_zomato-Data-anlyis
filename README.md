@@ -1,2 +1,2 @@
-# banglore_zomato-Data-anlyis
+# banglore_zomato-Data-anlyisis
 claen  data and impact full inshight
